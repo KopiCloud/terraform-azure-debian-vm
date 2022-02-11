@@ -10,3 +10,5 @@ Versions included:
 * Debian 9 (stretch)
 * Debian 10 (buster)
 * Debian 11 (bullseye)
+
+Blog --> https://medium.com/@gmusumeci/how-to-deploy-a-debian-linux-vm-in-azure-using-terraform-13024fcc5f69
